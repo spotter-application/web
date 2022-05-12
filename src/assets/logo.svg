@@ -3,24 +3,11 @@
 <rect width="50" height="50" fill="url(#paint0_radial_0_4)"/>
 </mask>
 <g mask="url(#mask0_0_4)">
-<g filter="url(#filter0_d_0_4)">
-<path d="M0 17.4757C0 11.3587 -7.62939e-06 8.30011 1.19046 5.9637C2.23762 3.90853 3.90852 2.23763 5.96369 1.19046C8.30011 1.90735e-06 11.3587 1.90735e-06 17.4757 1.90735e-06H32.5243C38.6413 1.90735e-06 41.6999 1.90735e-06 44.0363 1.19046C46.0915 2.23763 47.7624 3.90853 48.8095 5.9637C50 8.30011 50 11.3587 50 17.4757V32.5243C50 38.6414 50 41.6999 48.8095 44.0363C47.7624 46.0915 46.0915 47.7624 44.0363 48.8095C41.6999 50 38.6413 50 32.5243 50H17.4757C11.3587 50 8.30011 50 5.96369 48.8095C3.90852 47.7624 2.23762 46.0915 1.19046 44.0363C-7.62939e-06 41.6999 0 38.6414 0 32.5243V17.4757Z" fill="#0E1014"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M-20.5097 -12.1359C-20.5097 -18.8384 -15.0763 -24.2718 -8.37379 -24.2718H28.034C34.7365 -24.2718 40.1699 -18.8384 40.1699 -12.1359V1.90735e-06C40.1699 6.70249 34.7365 12.1359 28.034 12.1359H-8.37379C-15.0763 12.1359 -20.5097 6.70249 -20.5097 1.90735e-06V-12.1359Z" fill="#55A4ED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-20.5097 -12.1359C-20.5097 -18.8384 -15.0763 -24.2718 -8.37379 -24.2718H28.034C34.7365 -24.2718 40.1699 -18.8384 40.1699 -12.1359V9.53674e-07C40.1699 6.70249 34.7365 12.1359 28.034 12.1359H-8.3738C-15.0763 12.1359 -20.5097 6.70249 -20.5097 9.53674e-07V-12.1359Z" fill="#55A4ED"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M-91.1408 25C-91.1408 19.638 -86.794 15.2913 -81.432 15.2913H30.4612C35.8231 15.2913 40.1699 19.638 40.1699 25C40.1699 30.362 35.8231 34.7087 30.4612 34.7087H-81.432C-86.794 34.7087 -91.1408 30.362 -91.1408 25Z" fill="#FF9F1D"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M-20.5097 50C-20.5097 43.2975 -15.0763 37.8641 -8.37379 37.8641H28.034C34.7365 37.8641 40.1699 43.2975 40.1699 50V62.1359C40.1699 68.8384 34.7365 74.2718 28.034 74.2718H-8.37379C-15.0763 74.2718 -20.5097 68.8384 -20.5097 62.1359V50Z" fill="#E71E36"/>
-</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-20.5097 50C-20.5097 43.2975 -15.0763 37.8641 -8.37379 37.8641H28.034C34.7365 37.8641 40.1699 43.2975 40.1699 50V62.1359C40.1699 68.8384 34.7365 74.2718 28.034 74.2718H-8.3738C-15.0763 74.2718 -20.5097 68.8384 -20.5097 62.1359V50Z" fill="#E71E36"/>
 </g>
 <defs>
-<filter id="filter0_d_0_4" x="-121.141" y="-54.2718" width="201.141" height="158.544" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="15"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.65098 0 0 0 0 0.113725 0 0 0 0 0.905882 0 0 0 0.15 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_4"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_4" result="shape"/>
-</filter>
 <radialGradient id="paint0_radial_0_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(25 25) rotate(90) scale(25)">
 <stop stop-color="#22272E"/>
 <stop offset="1" stop-color="#22272E"/>
